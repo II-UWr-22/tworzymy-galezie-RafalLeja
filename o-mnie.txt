@@ -1,4 +1,7 @@
 Rafał Leja
 indukcja strukturalna
 LTT
+<<<<<<< HEAD
 czerwony
+=======
+>>>>>>> film
