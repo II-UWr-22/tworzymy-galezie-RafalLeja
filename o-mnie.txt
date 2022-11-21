@@ -1,3 +1,4 @@
 Rafał Leja
 indukcja strukturalna
 LTT
+czerwony
