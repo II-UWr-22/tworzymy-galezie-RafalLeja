@@ -1,2 +1,3 @@
 Rafał Leja
 indukcja strukturalna
+LTT
